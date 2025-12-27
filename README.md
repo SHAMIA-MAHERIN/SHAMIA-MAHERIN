@@ -59,15 +59,7 @@ I am particularly motivated by projects that combine:
 
 ---
 
-## 📌 Featured Work
-- End-to-end ML pipelines (data preprocessing → modeling → evaluation)
-- Classification and prediction tasks
-- Exploratory Data Analysis (EDA)
-- Research-style experimentation with metrics and comparisons
 
-> Detailed project repositories are pinned below 👇
-
----
 
 
 
