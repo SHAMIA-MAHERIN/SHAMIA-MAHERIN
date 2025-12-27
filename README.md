@@ -67,16 +67,7 @@ I am particularly motivated by projects that combine:
 
 ---
 
-## 📊 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHAMIA-MAHERIN&show_icons=true&theme=default" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAMIA-MAHERIN&layout=compact" />
-</p>
-
----
 
 ## 🎯 Career Goals
 - AI / Data Science roles  
