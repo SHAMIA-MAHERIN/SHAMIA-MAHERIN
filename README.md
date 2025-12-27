@@ -2,7 +2,7 @@
 ### AI & Data Science Enthusiast | Machine Learning | Research-Oriented Developer
 
 <p align="left">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/samia-mehrin17/)">
+  <a href="[[https://www.linkedin.com/](https://www.linkedin.com/in/samia-mehrin17/)](https://www.linkedin.com/in/samia-mehrin17/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shamiamaherin@gmail.com">
