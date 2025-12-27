@@ -5,10 +5,11 @@
   <a href="https://www.linkedin.com/in/samia-mehrin17/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:shamiamaherin@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shamiamaherin@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 
 ---
